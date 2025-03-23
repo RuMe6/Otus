@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git-repos\\OtusCSharp\\Otus_Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9497778-E0E4-4997-96C8-5CAEA9CB88AA}|Otus_Interfaces.csproj|e:\\git-repos\\otuscsharp\\otus_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9497778-E0E4-4997-96C8-5CAEA9CB88AA}|Otus_Interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9497778-E0E4-4997-96C8-5CAEA9CB88AA}|Otus_Interfaces.csproj|e:\\git-repos\\otuscsharp\\otus_interfaces\\irobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9497778-E0E4-4997-96C8-5CAEA9CB88AA}|Otus_Interfaces.csproj|solutionrelative:irobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9497778-E0E4-4997-96C8-5CAEA9CB88AA}|Otus_Interfaces.csproj|e:\\git-repos\\otuscsharp\\otus_interfaces\\ichargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9497778-E0E4-4997-96C8-5CAEA9CB88AA}|Otus_Interfaces.csproj|solutionrelative:ichargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9497778-E0E4-4997-96C8-5CAEA9CB88AA}|Otus_Interfaces.csproj|e:\\git-repos\\otuscsharp\\otus_interfaces\\iflyingrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9497778-E0E4-4997-96C8-5CAEA9CB88AA}|Otus_Interfaces.csproj|solutionrelative:iflyingrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9497778-E0E4-4997-96C8-5CAEA9CB88AA}|Otus_Interfaces.csproj|e:\\git-repos\\otuscsharp\\otus_interfaces\\quadcopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9497778-E0E4-4997-96C8-5CAEA9CB88AA}|Otus_Interfaces.csproj|solutionrelative:quadcopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFlyingRobot.cs",
+              "DocumentMoniker": "E:\\git-repos\\OtusCSharp\\Otus_Interfaces\\IFlyingRobot.cs",
+              "RelativeDocumentMoniker": "IFlyingRobot.cs",
+              "ToolTip": "E:\\git-repos\\OtusCSharp\\Otus_Interfaces\\IFlyingRobot.cs",
+              "RelativeToolTip": "IFlyingRobot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:08:24.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IChargeable.cs",
+              "DocumentMoniker": "E:\\git-repos\\OtusCSharp\\Otus_Interfaces\\IChargeable.cs",
+              "RelativeDocumentMoniker": "IChargeable.cs",
+              "ToolTip": "E:\\git-repos\\OtusCSharp\\Otus_Interfaces\\IChargeable.cs",
+              "RelativeToolTip": "IChargeable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:07:54.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRobot.cs",
+              "DocumentMoniker": "E:\\git-repos\\OtusCSharp\\Otus_Interfaces\\IRobot.cs",
+              "RelativeDocumentMoniker": "IRobot.cs",
+              "ToolTip": "E:\\git-repos\\OtusCSharp\\Otus_Interfaces\\IRobot.cs",
+              "RelativeToolTip": "IRobot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:07:22.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git-repos\\OtusCSharp\\Otus_Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\git-repos\\OtusCSharp\\Otus_Interfaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:06:56.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quadcopter.cs",
+              "DocumentMoniker": "E:\\git-repos\\OtusCSharp\\Otus_Interfaces\\Quadcopter.cs",
+              "RelativeDocumentMoniker": "Quadcopter.cs",
+              "ToolTip": "E:\\git-repos\\OtusCSharp\\Otus_Interfaces\\Quadcopter.cs",
+              "RelativeToolTip": "Quadcopter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:18:48.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
