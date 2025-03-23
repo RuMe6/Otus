@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git-repos\\OtusCSharp\\Otus_BinaryTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5959A9D5-6B96-4580-8321-C9A168CB8B82}|Otus_BinaryTree.csproj|e:\\git-repos\\otuscsharp\\otus_binarytree\\binarytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5959A9D5-6B96-4580-8321-C9A168CB8B82}|Otus_BinaryTree.csproj|solutionrelative:binarytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5959A9D5-6B96-4580-8321-C9A168CB8B82}|Otus_BinaryTree.csproj|e:\\git-repos\\otuscsharp\\otus_binarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5959A9D5-6B96-4580-8321-C9A168CB8B82}|Otus_BinaryTree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5959A9D5-6B96-4580-8321-C9A168CB8B82}|Otus_BinaryTree.csproj|e:\\git-repos\\otuscsharp\\otus_binarytree\\getinputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5959A9D5-6B96-4580-8321-C9A168CB8B82}|Otus_BinaryTree.csproj|solutionrelative:getinputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git-repos\\OtusCSharp\\Otus_BinaryTree\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\git-repos\\OtusCSharp\\Otus_BinaryTree\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:11:06.397Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetInputData.cs",
+              "DocumentMoniker": "E:\\git-repos\\OtusCSharp\\Otus_BinaryTree\\GetInputData.cs",
+              "RelativeDocumentMoniker": "GetInputData.cs",
+              "ToolTip": "E:\\git-repos\\OtusCSharp\\Otus_BinaryTree\\GetInputData.cs",
+              "RelativeToolTip": "GetInputData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:20:06.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryTreeNode.cs",
+              "DocumentMoniker": "E:\\git-repos\\OtusCSharp\\Otus_BinaryTree\\BinaryTreeNode.cs",
+              "RelativeDocumentMoniker": "BinaryTreeNode.cs",
+              "ToolTip": "E:\\git-repos\\OtusCSharp\\Otus_BinaryTree\\BinaryTreeNode.cs",
+              "RelativeToolTip": "BinaryTreeNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:43:44.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
