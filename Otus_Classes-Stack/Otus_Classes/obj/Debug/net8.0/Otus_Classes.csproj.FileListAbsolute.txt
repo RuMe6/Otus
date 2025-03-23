@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\bin\Debug\net8.0\Otus_Classes.exe
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\bin\Debug\net8.0\Otus_Classes.deps.json
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\bin\Debug\net8.0\Otus_Classes.runtimeconfig.json
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\bin\Debug\net8.0\Otus_Classes.dll
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\bin\Debug\net8.0\Otus_Classes.pdb
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\obj\Debug\net8.0\Otus_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\obj\Debug\net8.0\Otus_Classes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\obj\Debug\net8.0\Otus_Classes.AssemblyInfo.cs
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\obj\Debug\net8.0\Otus_Classes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\obj\Debug\net8.0\Otus_Classes.dll
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\obj\Debug\net8.0\refint\Otus_Classes.dll
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\obj\Debug\net8.0\Otus_Classes.pdb
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\obj\Debug\net8.0\Otus_Classes.genruntimeconfig.cache
+C:\Users\User\source\repos\Otus_Classes\Otus_Classes\obj\Debug\net8.0\ref\Otus_Classes.dll
