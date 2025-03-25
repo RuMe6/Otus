@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Otus_File-Directory/1.0.0": {
+        "runtime": {
+          "Otus_File-Directory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Otus_File-Directory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

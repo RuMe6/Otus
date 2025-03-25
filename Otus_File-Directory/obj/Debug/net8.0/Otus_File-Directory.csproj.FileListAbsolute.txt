@@ -1,0 +1,15 @@
+C:\Users\User\Otus\Otus_File-Directory\bin\Debug\net8.0\Otus_File-Directory.exe
+C:\Users\User\Otus\Otus_File-Directory\bin\Debug\net8.0\Otus_File-Directory.deps.json
+C:\Users\User\Otus\Otus_File-Directory\bin\Debug\net8.0\Otus_File-Directory.runtimeconfig.json
+C:\Users\User\Otus\Otus_File-Directory\bin\Debug\net8.0\Otus_File-Directory.dll
+C:\Users\User\Otus\Otus_File-Directory\bin\Debug\net8.0\Otus_File-Directory.pdb
+C:\Users\User\Otus\Otus_File-Directory\obj\Debug\net8.0\Otus_File-Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Otus\Otus_File-Directory\obj\Debug\net8.0\Otus_File-Directory.AssemblyInfoInputs.cache
+C:\Users\User\Otus\Otus_File-Directory\obj\Debug\net8.0\Otus_File-Directory.AssemblyInfo.cs
+C:\Users\User\Otus\Otus_File-Directory\obj\Debug\net8.0\Otus_File-Directory.csproj.CoreCompileInputs.cache
+C:\Users\User\Otus\Otus_File-Directory\obj\Debug\net8.0\Otus_File-Directory.sourcelink.json
+C:\Users\User\Otus\Otus_File-Directory\obj\Debug\net8.0\Otus_File-Directory.dll
+C:\Users\User\Otus\Otus_File-Directory\obj\Debug\net8.0\refint\Otus_File-Directory.dll
+C:\Users\User\Otus\Otus_File-Directory\obj\Debug\net8.0\Otus_File-Directory.pdb
+C:\Users\User\Otus\Otus_File-Directory\obj\Debug\net8.0\Otus_File-Directory.genruntimeconfig.cache
+C:\Users\User\Otus\Otus_File-Directory\obj\Debug\net8.0\ref\Otus_File-Directory.dll
